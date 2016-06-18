@@ -34,5 +34,8 @@
     "peer-info": "^0.4.0",
     "pre-commit": "^1.1.1",
     "standard": "^5.3.1"
+  },
+  "dependencies": {
+    "libp2p-ping": "^0.1.1"
   }
 }
